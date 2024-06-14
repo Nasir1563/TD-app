@@ -1,4 +1,5 @@
 Flask==2.1.2
+Werkzeug==2.0.3
 beautifulsoup4==4.11.1
 pandas==1.4.2
 python-dotenv==0.19.2
